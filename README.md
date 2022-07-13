@@ -4,25 +4,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Introduction
 
 We created HandSafety VR, made from Unreal 5.2 Virtual Reality technology. It consists in a virtual laboratory, in which the user can learn about chemistry in a safe and fun environment. HandSafetyVR engages learners and simulates educational scenarios.
@@ -36,9 +17,16 @@ If you want to access our landing page to know more about the project click [thi
 
 
 ## Installation
+
 Nowadays our simulator can not be download at the oculus store.
 
 ## Usage
-The usage is quite simple there are two modes available for the user, the first one will allow him to practice doing a random formula  without any  time restrictions,  this is your safe spot in which you will fine tune your abilities. Whereas in the test mode, you will have the opportunity to test your ability to perform a preset formula within a minute. But watch out! Making mistakes such as lacking of time or adding too much of a liquid could lead to failing scenarios
+
+The usage is quite simple there are two modes available for the user, the first one will allow him to practice doing a random formula  without any  time restrictions,  this is your safe spot in which you will fine tune your abilities. Whereas in the test mode, you will have the opportunity to test your ability to perform a preset formula within a minute. But watch out! Making mistakes such as lacking of time or adding too much of a liquid could lead to failing scenarios.
+
 ## Contributing
+
+Do you have a suggestion? Please send it to 3342@holbertonschool.com
+
 ## Licensing
+-
