@@ -30,9 +30,9 @@ If you want to access our landing page to know more about the project click [thi
 
 ## Authors
 
-⋅⋅* [Guzmán Caraballo](https://www.linkedin.com/in/guzm%C3%A1n-caraballo-1954a4228/)
-⋅⋅* [Alina De Los Santos](https://www.linkedin.com/in/alina-de-los-santos-064b19205/)
-⋅⋅* [Juan Giménez](https://www.linkedin.com/in/juan-gimenez-381b01214/)
+* [Guzmán Caraballo](https://www.linkedin.com/in/guzm%C3%A1n-caraballo-1954a4228/)
+* [Alina De Los Santos](https://www.linkedin.com/in/alina-de-los-santos-064b19205/)
+* [Juan Giménez](https://www.linkedin.com/in/juan-gimenez-381b01214/)
 
 
 ## Installation
